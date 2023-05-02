@@ -1,5 +1,6 @@
 ur_name = input("What is your name?")
-ur_age = input("How old are you?")
-print("Hello, " + ur_name "! Wow you're only " + ur_age " years old! "
+age = input("How old are you?")
+print ("Hello, " + ur_name)
+print ("Wow you're only " + age)
 
 
