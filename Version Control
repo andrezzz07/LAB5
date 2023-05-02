@@ -3,4 +3,9 @@ age = input("How old are you?")
 print ("Hello, " + ur_name)
 print ("Wow you're only " + age)
 
+number_list = [1, 2, 3, 4, 5, 6, 7]
+fav_number = number_list[6]
+print (fav_number)
+
+
 
